@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Tapiwa Mesa</h1>
 <h3 align="center">A passionate Data Analyst dedicated to the quest of developing business intelligence solutions that leverage on best practice technologies to deliver data driven insights.</h3>
 
-- 🔭 I’m currently working on **deploying my stock price prediction model**
+- 🔭 I’m currently working on **enhancing my Python Prgramming skills for data science**
 
-- 🌱 I’m currently learning **Machine Learning with a strong focus on Deep Learning**
+- 🌱 I’m currently re-learning and un-learning **Machine Learning with a strong focus on Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://tapiwamesa.github.io/](https://tapiwamesa.github.io/)
 
-- 💬 Ask me about **Power BI**
+- 💬 Ask me about **Power BI** and **SQL**
 
 - 📫 How to reach me **tapiwamesah@gmail.com**
 
