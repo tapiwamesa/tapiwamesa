@@ -1,4 +1,4 @@
-![MasterHead](https://th.bing.com/th/id/R.8f0d3841b53100ac9a38bc9b525b18c8?rik=h45cHaOGZXBKdQ&riu=http%3a%2f%2fauditeste.com.br%2fwp-content%2fuploads%2f2020%2f02%2fbusiness_intelligence.jpg&ehk=i%2btzlobr%2bBwUeJRYWA9N0roIV39x37dAnYXBdqTV2ss%3d&risl=&pid=ImgRaw&r=0)
+
 <h1 align="center">Hi 👋, I'm Tapiwa Mesa</h1>
 <h3 align="center">A passionate Data Analyst dedicated to the quest of developing business intelligence solutions that leverage on best practice technologies to deliver data driven insights.</h3>
 
