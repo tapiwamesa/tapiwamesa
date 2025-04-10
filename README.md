@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Power BI**, **SQL** and **Excel**
 
-- 📫 Reach me on **tapiwamesah@gmail.com**
+- 📫 Reach me on *tapiwamesah@gmail.com*
 
 - 📄 Know about my experiences through my LinkedIn [https://www.linkedin.com/in/tapiwamesa/](https://www.linkedin.com/in/tapiwamesa/)
 
