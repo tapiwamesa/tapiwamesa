@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **enhancing my Python Programming skills for data science** - again after falling in love with **Power BI** and **Excel** and forgetting that everthing else matters!
 
-- 🌱 I’m currently un-learning and re-learning **Machine Learning with a strong focus on Deep Learning**
+- 🌱 I’m currently un-learning and re-learning **Machine Learning**
 
-- 👨‍💻 Check out my portfolio here:[https://tapiwamesa.github.io/](https://tapiwamesa.github.io/)
+- 👨‍💻 Check out my portfolio here: [https://tapiwamesa.github.io/](https://tapiwamesa.github.io/)
 
 - 💬 Ask me about **Power BI**, **SQL** and **Excel**
 
