@@ -45,13 +45,12 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40" style="background:white;padding:2px;"/> 
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
   </a>
 </p>
-
 
 <!-- GitHub Stats -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tapiwamesa&show_icons=true&locale=en&layout=compact&hide=html,css,javascript" alt="tapiwamesa" /></p>
